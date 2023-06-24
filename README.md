@@ -44,7 +44,7 @@ My CV[Link]
 
 **2.Indian Road Accidents**
 
-**Code:**[Indian Road Accidents]
+**Code:**[Indian Road Accidents](https://github.com/Parag-Wairagade/Projects_Portfolio/blob/main/Indian%20Road%20Accidents.ipynb)
 
 **Description:** The dataset contains 6 different datasets. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis).  
 
