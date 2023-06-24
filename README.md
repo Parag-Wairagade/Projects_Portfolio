@@ -34,7 +34,7 @@ My CV[Link]
 ## Python
 **1.Investigating Hotel Business**
 
-**Code:**[Investigating Hotel Business]
+**Code:**[Investigating Hotel Business](https://github.com/Parag-Wairagade/Projects_Portfolio/blob/main/Investigating%20Hotel%20Business%20By%20Data%20Visualization.ipynb)
 
 **Description:** The dataset contains 119390 records. There is a list of 29 different columns. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis).  
 
