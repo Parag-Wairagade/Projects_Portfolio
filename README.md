@@ -12,7 +12,7 @@ My CV[Link]
 ## Power BI
 **1.Maven Market**
 
-**Code:**[Maven Market Dashboard]()
+**Code:**[Maven Market Dashboard](https://github.com/Parag-Wairagade/Projects_Portfolio/blob/main/Maven%20Market.pbix)
 
 **Description:** This dashboard contains 9 different relational datasets which contains Customers details, Product details, Transactions details, Stores details, Regions, etc.
 
