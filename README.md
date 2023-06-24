@@ -74,7 +74,7 @@ My CV[Link]
 
 **2.Vrinda Store Analysis**
 
-**Code:**[Vrinda Store Analysis]
+**Code:**[Vrinda Store Analysis](https://github.com/Parag-Wairagade/Projects_Portfolio/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
 
 **Description:** In this report dashboard is created with the help of Excel.
 
