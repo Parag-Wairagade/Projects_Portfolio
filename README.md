@@ -22,7 +22,7 @@ My CV[Link]
 
 **2.IPL Auction 2023**
 
-**Code:**[IPL Auction 2023]
+**Code:**[IPL Auction 2023](https://github.com/Parag-Wairagade/Projects_Portfolio/blob/main/ipl%20auction%202023.pbix)
 
 **Description:** This dashboard contains 1 datasets which contains 566 Rows and 8 Columns.
 
